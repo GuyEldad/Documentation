@@ -1,5 +1,5 @@
 ## Introduction
-Welcome to the Documentation section. Here I will share a collection of guides, resources, and documentation.
+Welcome to the Documentation section. Here, I will share a collection of guides, challenge write-ups, and documentation.
 
 ## Guides
 Learn how to create custom Linux memory profiles for Volatility 2, a powerful memory forensic tool, by following a detailed step-by-step guide. 
