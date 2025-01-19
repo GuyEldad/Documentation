@@ -6,7 +6,7 @@ Learn how to create custom Linux memory profiles for Volatility 2, a powerful me
 This documentation includes instructions on configuring environments, setting up virtual machines, and generating Linux profiles to analyze memory dumps effectively.
 - [Creating Linux Custom Memory Profiles for Volatility 2](Creating%20Linux%20Custom%20Memory%20Profiles%20for%20Volatility%202.pdf)
 
-# HackTheBox Write-Ups
+## HackTheBox Write-Ups
 Explore my HackTheBox write-ups, where I document step-by-step solutions and methodologies for various challenges.
 
 - [HackTheBox Write-Ups](HackTheBox-Write-Ups/)
