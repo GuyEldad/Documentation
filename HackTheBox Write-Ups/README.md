@@ -4,4 +4,4 @@ Welcome to my HackTheBox Write-Ups section. Here, you'll find step-by-step solut
 
 ## Available Write-Ups
 
-- [Detroit Becomes Human](Detroit becomes Human.pdf)
+- [Detroit Becomes Human](Detroit%20becomes%20Human.pdf)
