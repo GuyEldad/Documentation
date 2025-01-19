@@ -16,5 +16,4 @@ Explore my HackTheBox write-ups, where I document step-by-step solutions and met
 
 Check out my LetsDefend write-ups, where I share insights and step-by-step solutions to various security challenges.
 
-- [LetsDefend Write-Ups](LetsDefend%20Write-Ups/)
-- [LetsDefend Write-Ups](LetsDefend-Write-Ups/)
+- [LetsDefend Write-Ups](./LetsDefend%20Write-Ups/)
