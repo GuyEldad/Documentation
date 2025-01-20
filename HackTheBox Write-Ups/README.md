@@ -11,3 +11,4 @@ Welcome to my HackTheBox Write-Ups section. Here, you'll find step-by-step solut
 - [Logjammer Challenge](Logjammer%20Challenge.pdf)
 - [Meerkat Challenge](Meerkat%20Challenge.pdf)
 - [Bumblebee Challenge](Bumblebee%20Challenge.pdf)
+- [Heartbreaker-Continuum Challenge](Heartbreaker-Continuum%20Challenge.pdf)
