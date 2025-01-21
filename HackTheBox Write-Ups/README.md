@@ -1,4 +1,4 @@
-<img src="HackTheBox.png" alt="HackTheBox" width="500">
+<img src="HackTheBox.jpg" alt="HackTheBox" width="500">
 
 # HackTheBox Write-Ups
 
