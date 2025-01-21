@@ -1,3 +1,5 @@
+![HackTheBox](HackTheBox%20Picture.png)
+
 # HackTheBox Write-Ups
 
 Welcome to my HackTheBox Write-Ups section. Here, you'll find step-by-step solutions and methodologies for various challenges.
