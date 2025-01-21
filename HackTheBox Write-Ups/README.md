@@ -1,4 +1,4 @@
-![HackTheBox](HackTheBox%20Picture.png)
+<img src="HackTheBox%20Picture.png" alt="HackTheBox" width="300">
 
 # HackTheBox Write-Ups
 
