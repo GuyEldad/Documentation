@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="margin-left: auto; margin-right: auto;">
   <img src="CyberDefenders.png" alt="CyberDefenders Write-Ups" width="1000px">
 </p>
 
