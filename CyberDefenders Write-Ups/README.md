@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CyberDefenders.png" alt="CyberDefenders Write-Ups" width="90%">
+  <img src="CyberDefenders.png" alt="CyberDefenders Write-Ups" width="1000px">
 </p>
 
 # CyberDefenders Write-Ups
