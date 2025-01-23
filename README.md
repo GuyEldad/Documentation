@@ -22,4 +22,4 @@ Check out my LetsDefend write-ups, where I share insights and step-by-step solut
 
 Explore my CyberDefenders write-ups, where I provide comprehensive solutions and approaches to tackling various cybersecurity challenges.
 
-- [CyberDefenders Write-Ups](./CyberDefenders%Write-Ups/)
+- [CyberDefenders Write-Ups](./CyberDefenders%20Write-Ups/)
