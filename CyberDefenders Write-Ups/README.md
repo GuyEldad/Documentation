@@ -1,4 +1,6 @@
-![CyberDefenders](CyberDefenders.png)
+<p align="center">
+  <img src="CyberDefenders.png" alt="CyberDefenders Write-Ups" width="100%">
+</p>
 
 # CyberDefenders Write-Ups
 
