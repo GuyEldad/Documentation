@@ -10,7 +10,7 @@ Welcome to my CyberDefenders Write-Ups section. Here, you'll find step-by-step s
 
 - [AfricanFalls Challenge](AfricanFalls%20Challenge.pdf)
 - [Banking Troubles Challenge](BankingTroubles.pdf)
-- [BlackEnergy Challenge](BlackEnergy%20Challenge.pdf)
+- [BlackEnergy Challenge](Black%Energy%20Challenge.pdf)
 - [Brave Challenge](Brave%20Challenge.pdf)
 - [DeepDive Challenge](DeepDive%20Challenge.pdf)
 - [Insider Challenge](Insider%20Challenge.pdf)
