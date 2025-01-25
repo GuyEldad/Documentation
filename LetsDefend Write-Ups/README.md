@@ -12,3 +12,4 @@ Welcome to my LetsDefend Write-Ups section. Here, you'll find step-by-step solut
 - [Downloader Challenge](Downloader%20Challenge.pdf)
 - [Malicious Web Traffic Analysis Challenge](Malicious%20Web%20Traffic%20Analysis%20Challenge.pdf)
 - [Revenge RAT Challenge](Revenge%20RAT%20Challenge.pdf)
+- [Log Analysis With Sysmon Challenge](Log%20Analysis%20With%20Sysmon%20Challenge.pdf)
