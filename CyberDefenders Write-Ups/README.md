@@ -8,8 +8,13 @@ Welcome to my CyberDefenders Write-Ups section. Here, you'll find step-by-step s
 
 ## Available Write-Ups
 
-- [Insider Challenge](./Insider%20Challenge.pdf)
-- [Kraken Keylogger Challenge](./KrakenKeylogger%20Challenge.pdf)
-- [MrRobot Lab Challenge](./MrRobot%20Lab%20Challenge.pdf)
-- [Ramnit Challenge](./Ramnit%20Challenge.pdf)
-- [RedLine Challenge](./RedLine%20Challenge.pdf)
+- [Banking Troubles Challenge](CyberDefenders Write-Ups/BankingTroubles.pdf)
+- [BlackEnergy Challenge](CyberDefenders Write-Ups/BlackEnergy Challenge.pdf)
+- [Brave Challenge](CyberDefenders Write-Ups/Brave Challenge.pdf)
+- [DeepDive Challenge](CyberDefenders Write-Ups/DeepDive Challenge.pdf)
+- [NintendoHunt Challenge](CyberDefenders Write-Ups/NintendoHunt Challenge.pdf)
+- [Reveal Lab Challenge](CyberDefenders Write-Ups/Reveal Lab Challenge.pdf)
+- [Seized Challenge](CyberDefenders Write-Ups/Seized.pdf)
+- [Spotlight Challenge](CyberDefenders Write-Ups/Spotlight Challenge.pdf)
+- [SpottedInTheWild Challenge](CyberDefenders Write-Ups/SpottedInTheWild.pdf)
+- [Sysinternals Challenge](CyberDefenders Write-Ups/Sysinternals Challenge.pdf)
