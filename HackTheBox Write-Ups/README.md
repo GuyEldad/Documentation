@@ -50,4 +50,4 @@ Welcome to my HackTheBox Write-Ups section. Here, you'll find step-by-step solut
 - [TickTock Challenge](TickTock%20Challenge.pdf)
 - [Tracer Challenge](Tracer%20Challenge.pdf)
 - [Ultimatum Challenge](Ultimatum%20Challenge.pdf)
-- [Takedown Challenge.pdf](Takedown%20Challenge.pdf)
+- [Takedown Challenge.pdf](./Takedown%20Challenge.pdf)
