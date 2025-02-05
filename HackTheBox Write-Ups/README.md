@@ -51,3 +51,4 @@ Welcome to my HackTheBox Write-Ups section. Here, you'll find step-by-step solut
 - [Tracer Challenge](Tracer%20Challenge.pdf)
 - [Ultimatum Challenge](Ultimatum%20Challenge.pdf)
 - [Takedown.pdf](./Takedown.pdf)
+- [Compromised.pdf](/Compromised.pdf)
